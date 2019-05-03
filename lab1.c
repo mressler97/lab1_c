@@ -1,7 +1,7 @@
 /* Name:	Michael Ressler
  * Class:	CSCI112 Programming with C
  * Assignment:	Lab 1
- * Date:	2/12/19
+ * Date:	1/24/19
 */
 
 #include<stdio.h>
